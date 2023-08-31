@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 796de1365b085844e861638e8a250351
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CeilingA
+    100002: ColumnA
+    100004: CornerA
+    100006: CornerWallWindows
+    100008: FloorA
+    100010: //RootNode
+    100012: UnfoldedPaper
+    100014: WallA
+    100016: WallDoorA
+    100018: WallHalfA
+    100020: WallWindowA
+    100022: WallB
+    100024: WallDoorB
+    100026: WallC
+    100028: ColumnB
+    100030: ColumnC
+    400000: CeilingA
+    400002: ColumnA
+    400004: CornerA
+    400006: CornerWallWindows
+    400008: FloorA
+    400010: //RootNode
+    400012: UnfoldedPaper
+    400014: WallA
+    400016: WallDoorA
+    400018: WallHalfA
+    400020: WallWindowA
+    400022: WallB
+    400024: WallDoorB
+    400026: WallC
+    400028: ColumnB
+    400030: ColumnC
+    2300000: CeilingA
+    2300002: ColumnA
+    2300004: CornerA
+    2300006: CornerWallWindows
+    2300008: FloorA
+    2300010: UnfoldedPaper
+    2300012: WallA
+    2300014: WallDoorA
+    2300016: WallHalfA
+    2300018: WallWindowA
+    2300020: WallB
+    2300022: WallDoorB
+    2300024: WallC
+    2300026: ColumnB
+    2300028: ColumnC
+    3300000: CeilingA
+    3300002: ColumnA
+    3300004: CornerA
+    3300006: CornerWallWindows
+    3300008: FloorA
+    3300010: UnfoldedPaper
+    3300012: WallA
+    3300014: WallDoorA
+    3300016: WallHalfA
+    3300018: WallWindowA
+    3300020: WallB
+    3300022: WallDoorB
+    3300024: WallC
+    3300026: ColumnB
+    3300028: ColumnC
+    4300000: FloorA
+    4300002: CeilingA
+    4300004: WallWindowA
+    4300006: ColumnA
+    4300008: WallDoorA
+    4300010: CornerA
+    4300012: WallA
+    4300014: CornerWallWindows
+    4300016: UnfoldedPaper
+    4300018: WallHalfA
+    4300020: WallB
+    4300022: WallDoorB
+    4300024: WallC
+    4300026: ColumnB
+    4300028: ColumnC
+    6400000: CeilingA
+    6400002: ColumnA
+    6400004: CornerA
+    6400006: CornerWallWindows
+    6400008: FloorA
+    6400010: UnfoldedPaper
+    6400012: WallA
+    6400014: WallB
+    6400016: WallC
+    6400018: WallDoorA
+    6400020: WallDoorB
+    6400022: WallHalfA
+    6400024: WallWindowA
+    6400026: ColumnB
+    6400028: ColumnC
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
